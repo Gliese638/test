@@ -6,6 +6,17 @@ body {
   color: var(--main-color);
 }
 
+.contact-us{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  letter-spacing: 0.02em;
+  
+  color: #757575;
+  }
+
 .list-menu {
 
   font-family: "Roboto", sans-serif;
@@ -15,17 +26,6 @@ body {
   letter-spacing: 0.02em;
   color: #212121;
 }   
-
-.page-header{
-font-family: Roboto;
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 1.142;
-letter-spacing: 0.02em;
-
-color: #757575;
-}
 
 .hero{
 text-align: center;
@@ -60,12 +60,10 @@ font-style: normal;
 font-weight: bold;
 font-size: 16px;
 line-height: 1.875;
-display: flex;
 align-items: center;
 text-align: center;
 letter-spacing: 0.06em;
 
 color: #FFFFFF;
 }
-
 
